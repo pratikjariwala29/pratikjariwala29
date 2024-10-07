@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate Embedded Software Developer</h3>
+<h3 align="center">A passionate Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjariwala29&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjariwala29" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pjariwala22" target="blank"><img src="https://img.shields.io/twitter/follow/pjariwala22?logo=twitter&style=for-the-badge" alt="pjariwala22" /></a> </p>
 
-- 🌱 I’m currently learning **STM32 and DSA**
+- 🌱 I’m currently learning **Business Analytics**
 
 - 📫 How to reach me **pjariwala22@gmail.com**
 
