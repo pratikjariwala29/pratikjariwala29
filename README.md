@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate Business Analyst</h3>
+<h3 align="center">Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjariwala29&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjariwala29" /> </p>
 
